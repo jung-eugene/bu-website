@@ -1,1 +1,1 @@
-# buwebsite.github.io
+# BU Website
